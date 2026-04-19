@@ -22,7 +22,7 @@ Public repository: https://github.com/MuhammadNoor7/i23-2520-NLP-Assignment2
 ```text
 i23-2520_Assignment2_DS-A/
 |-- i23-2520_Assignment2_DS-A.ipynb
-|-- i23-2520_Assignment2_DS_A.pdf
+|-- i23-2520_Assignment2_DS-A.pdf
 |-- cleaned.txt
 |-- raw.txt
 |-- metadata.json
